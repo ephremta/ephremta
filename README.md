@@ -1,5 +1,5 @@
-# ephremta
-👋 Hello, I'm [Your Name]!
+# 
+👋 Hello, I'm Ephrem Tadesse!
 
 🧠 NLP & Data Science Enthusiast
 🔍 Working on NLP tasks for low-resource languages
