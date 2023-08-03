@@ -14,7 +14,6 @@
 📫 Reach me at:
    - Mobile: +251923737010
    - Email: Ephe11ta@gmail.com
-   - GitHub: https://github.com/ephremta
    - LinkedIn: https://www.linkedin.com/in/ephrem-tadesse-69304b93/
 
 😄 Pronouns: he/him
