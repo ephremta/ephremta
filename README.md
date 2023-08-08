@@ -25,7 +25,7 @@ Projects:
 - [Project 2: Natural Language Interface for Covid-19 Amharic Database](https://www.semanticscholar.org/paper/Natural-Language-Interface-for-Covid-19-Amharic-Degu-Aga/6366c45a8127fa3dba020d8498d342e6d36ca54e)
 - [Project 3: Covid-19 Timeseries Data Analysis](https://github.com/ephremta/EthioTelecomCDRAnalysis)
 - [Other Projects: Ethiopian Healthcare Rating and Location-based Public Guidance System](ongoing )
-- Credit scoring engine for digital lending platform(Commercialized product - I am part of the Data science team and played significant role )
+- Credit scoring engine for digital lending platform(Commercialized product - I was part of the Data science team and played significant role )
 - Data warehouse and data pipeline for Monitoring and Evaluation(focused on KPI metadata mapping) (Commercialized product - I was part of the team and particularly I have played significant role in this section)
 - Other simple but useful projects(Personalized document Based QA using chatgpt[https://github.com/ephremta/PersonalizedGPTPoweredQA], Amharic OCR using tesseract[https://github.com/ephremta/SimpleAmharicOCR], Fake news detection pipeline[https://github.com/ephremta/Fake-News-Detection-Pipeline])
   
