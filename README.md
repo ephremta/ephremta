@@ -18,7 +18,7 @@
 
 😄 Pronouns: he/him
 
-⚡ Fun fact: x% of y = y% of x
+
 
 Projects:
 - [Project 1: Information Extraction from Amharic Text](https://www.semanticscholar.org/paper/Event-Extraction-from-Unstructured-Amharic-Text-Degu-Tsegaye/82aeb3832966745d20652963b018fbae445bc4fa)
