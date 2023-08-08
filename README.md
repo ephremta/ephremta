@@ -27,6 +27,7 @@ Projects:
 - [Other Projects: Ethiopian Healthcare Rating and Location-based Public Guidance System](ongoing )
 - Credit scoring engine for digital lending platform(Commercialized product - I am part of the Data science team and played significant role )
 - Data warehouse and data pipeline for Monitoring and Evaluation(focused on KPI metadata mapping) (Commercialized product - I was part of the team and particularly I have played significant role in this section)
+- Other simple projects(Personalized document Based QA using chatgpt[https://github.com/ephremta/PersonalizedGPTPoweredQA], Amharic OCR using tesseract[https://github.com/ephremta/SimpleAmharicOCR],Fake news detection pipeline[https://github.com/ephremta/Fake-News-Detection-Pipeline])
   
 
 Experience:
