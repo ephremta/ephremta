@@ -35,4 +35,4 @@ Experience:
 
 Skills:
 - Programming: Python, Java
-- Tools: Scikit-learn, TensorFlow, FastAPI, AWS services(S3, Lambda, EC2, Cloudformation, cloudwatch, RDS, AWS - CLI), Docker, git, MLOps, DE-pipline - Kedro, redash,  Agile methodologies
+- Tools: Scikit-learn, TensorFlow, FastAPI, AWS services(S3, Lambda, EC2, Cloudformation, cloudwatch, RDS, AWS - CLI), Docker, git, MLOps, DE-pipline - Kedro, redash,  Agile methodologies, Jira(project management tool)
