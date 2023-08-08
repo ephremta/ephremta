@@ -26,6 +26,7 @@ Projects:
 - [Project 3: Covid-19 Timeseries Data Analysis](https://github.com/ephremta/EthioTelecomCDRAnalysis)
 - [Other Projects: Ethiopian Healthcare Rating and Location-based Public Guidance System](ongoing )
 - Credit scoring engine for digital lending platform(Commercialized product - I am part of the Data science team and played significant role )
+- Data warehouse and data pipeline for Monitoring and Evaluation(focused on KPI metadata mapping) (Commercialized product - I was part of the team and particularly I have played significant role in this section)
   
 
 Experience:
