@@ -4,15 +4,29 @@
 📚 MSC in Information Technology, Jimma University  
 🎓 BSC in Information Technology, Jimma University  
 
-🔍 Currently Senior Data Scientist at Kifiya Financial Technologies, Ethiopia  
-🌱 Passionate about leveraging AI for financial inclusion and digital transformation  
+---
 
-📫 Reach me at:  
-   - Mobile: +251923737010  
-   - Email: Ephe11ta@gmail.com  
-   - LinkedIn: [Ephrem Tadesse](https://www.linkedin.com/in/ephrem-tadesse-69304b93/)
+### Objective
+\small{
+Experienced data scientist with a strong background in credit scoring, machine learning, and natural language processing (NLP), seeking to contribute expertise in data science or data engineering roles. Dedicated to leveraging advanced analytics to drive business insights, optimize decision-making processes, and foster innovation in dynamic environments.
+}
 
-😄 Pronouns: he/him
+---
+
+### Technical Skills
+\small{
+ \begin{itemize}[leftmargin=0.1in, label={}]
+    \item \textbf{Programming Languages:} Python, Shell Scripting
+    \item \textbf{Machine Learning/MLOps:} Scikit-learn, TensorFlow, MLflow, Kubeflow
+    \item \textbf{Data Engineering:} Kedro, Redash, Pandas Profiling, Seaborn, NumPy
+    \item \textbf{Web Frameworks:} FastAPI
+    \item \textbf{Cloud Services:} AWS (S3, Lambda, EC2, CloudFormation, CloudWatch, RDS, AWS-CLI, EKS, EBS, EFS, ECR, IAM roles and management)
+    \item \textbf{Version Control:} GitHub, GitLab
+    \item \textbf{Containerization \& Orchestration:} Docker, Kubernetes, EKS
+    \item \textbf{CI/CD \& Deployment:} Terraform, ArgoCD, GitOps
+    \item \textbf{Project Management:} Jira
+ \end{itemize}
+}
 
 ---
 
@@ -49,15 +63,4 @@
   (Developed curriculum and conducted research in Natural Language Processing)
 
 ---
-
-### Skills:
-- **Programming Languages:** Python, Shell Scripting  
-- **Machine Learning/MLOps:** Scikit-learn, TensorFlow, MLflow, Kubeflow  
-- **Data Engineering:** Kedro, Redash, Pandas Profiling, Seaborn, NumPy  
-- **Web Frameworks:** FastAPI  
-- **Cloud Services:** AWS (S3, Lambda, EC2, RDS, CloudFormation, CloudWatch, EKS, EBS, EFS, ECR, IAM)  
-- **Version Control:** GitHub, GitLab  
-- **Containerization & Orchestration:** Docker, Kubernetes, EKS  
-- **CI/CD & Deployment:** Terraform, ArgoCD, GitOps  
-- **Project Management:** Agile methodologies, Jira
 
