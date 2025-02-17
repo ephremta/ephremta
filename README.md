@@ -7,8 +7,8 @@ Passionate data scientist with a robust background in credit scoring, machine le
 ## Technical Skills
 
 - **Programming Languages:** Python, Java, Shell Scripting
-- **Machine Learning/MLOps:** Scikit-learn, TensorFlow, MLflow, Kubeflow
-- **Data Engineering:** Kedro, Redash, Pandas Profiling, Seaborn, NumPy
+- **Machine Learning/MLOps:** Scikit-learn, Pytorch, LLM, MLflow, Kubeflow, Pandas, Seaborn, NumPy
+- **Data Engineering:** Kedro, Redash, Pandas Profiling, SQLMesh, athena, dvc
 - **Web Frameworks:** FastAPI, Flask
 - **Cloud Services:** AWS (S3, Lambda, EC2, CloudFormation, CloudWatch, RDS, AWS-CLI, EKS, EBS, EFS, ECR, IAM roles and management)
 - **Version Control:** GitHub, GitLab
