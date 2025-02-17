@@ -20,7 +20,7 @@ Passionate data scientist with a robust background in credit scoring, machine le
 
 ### Credit Scoring Engine for a Digital Lending Platform
 
-- **Tools/Frameworks:** AWS Services, FastAPI, Docker, MLflow, Kubeflow, feast  
+- **Tools/Frameworks:** AWS Services, FastAPI, Docker, MLflow, Kubeflow, feast, Featureform ,grafana 
 - **What it does:** Developed an alternative data-driven credit scoring and configurable decisioning platform for short-tenure loan products. Implemented and deployed multiple machine learning models, establishing fully automated MLOps pipelines for seamless integration and operational efficiency.
 - **Evaluation of stability:** Monitored accuracy, performance metrics, and robustness to data shifts and noise. Successfully processed over 1,000,000 requests with response times consistently under 1 second, serving a user base of 60,000 unique customers over a one-year period.
 
