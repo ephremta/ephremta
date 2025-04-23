@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Ephrem T.
 
-<!-- Passionate data scientist with a robust background in credit scoring, machine learning, and natural language processing (NLP), aiming to leverage advanced analytics to drive business insights, optimize decision-making processes, and foster innovation in dynamic environments. -->
+<!-- Senior data scientist with a strong background in credit scoring, machine learning, and natural language processing (NLP), aiming to leverage advanced analytics to drive business insights, optimize decision-making processes, and foster innovation in dynamic environments. -->
 
 Senior Full-Stack Data Scientist specializing in fintech solutions and NLP, currently developing a no-code credit decisioning platform with LLM integration. Expertise in MLOps, production ML pipeline, and data pipeline with strong proficiency in cutting-edge tools and frameworks. Proven track record of leading teams to build scalable, production-ready data products.
 
@@ -65,5 +65,5 @@ Senior Full-Stack Data Scientist specializing in fintech solutions and NLP, curr
 
 ## Contact
 - **Email:** ephe11ta@gmail.com
-- **LinkedIn:** [Ephrem Tadesse Degu]()
-=======
+
+
