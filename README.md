@@ -2,7 +2,8 @@
 
 <!-- Senior data scientist with a strong background in credit scoring, machine learning, and natural language processing (NLP), aiming to leverage advanced analytics to drive business insights, optimize decision-making processes, and foster innovation in dynamic environments. -->
 
-Senior Full-Stack Data Scientist specializing in fintech solutions and NLP, currently developing a no-code credit decisioning platform with LLM integration. Expertise in MLOps, production ML pipeline, and data pipeline with strong proficiency in cutting-edge tools and frameworks. Proven track record of leading teams to build scalable, production-ready data products.
+Senior Full-Stack Data Scientist specializing in fintech solutions and NLP.  I’m currently developing a no-code credit decisioning platform with LLM integration. I have experience building production ML and data pipelines and managing a
+small team of machine learning and data engineers to build and deploy production-ready data products.
 
 ## Technical Skills
 
