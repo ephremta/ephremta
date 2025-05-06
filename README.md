@@ -9,7 +9,7 @@ I'm a senior data scientist with a strong background in credit scoring, NLP, and
 ## 🔧 Technical Expertise
 
 - **Languages:** Python, Java, Bash  
-- **Machine Learning & MLOps:** Scikit-learn, TensorFlow, MLflow, Kubeflow, Feast  
+- **Machine Learning & MLOps:** Scikit-learn, TensorFlow, MLflow, Kubeflow, Feast, Featureform,   
 - **Data Engineering:** Kedro, Redash, Pandas Profiling, NumPy, Seaborn  
 - **Web Frameworks:** FastAPI, Flask  
 - **Cloud & DevOps:** AWS (EC2, Lambda, RDS, S3, EKS, CloudWatch, IAM, ECR, EFS), Docker, Kubernetes, GitOps, Terraform, ArgoCD  
