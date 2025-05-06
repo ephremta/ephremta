@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ephrem T.
 
-**Senior Full-Stack Data Scientist | Fintech | MLOps **
+**Senior Full-Stack Data Scientist |Fintech |MLOps**
 
 I'm a senior data scientist with a strong background in credit scoring, NLP, and end-to-end machine learning systems. I currently lead the development of a no-code, AI-powered credit decisioning platform with LLM integration. I specialize in building scalable, production-grade ML and data pipelines and have successfully managed cross-functional teams to deliver high-impact, real-world solutions in fintech and beyond.
 
